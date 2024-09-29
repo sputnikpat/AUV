@@ -31,7 +31,7 @@ To get started with the AUV project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/PRRoid26/AUV.git
+   git clone https://github.com/sputnikpat/AUV.git
    cd AUV
    ```
 
@@ -65,7 +65,7 @@ Please ensure that your contributions adhere to the project's coding standards a
 
 ## Contact
 
-For any questions, suggestions, or feedback, please feel free to open an issue in the repository or contact the project maintainer at [shettyprathamesh26@gmail.com].
+For any questions, suggestions, or feedback, please feel free to open an issue in the repository or contact the project maintainer at [harshwardanpatil2004@gmail.com].
 
 ---
 
