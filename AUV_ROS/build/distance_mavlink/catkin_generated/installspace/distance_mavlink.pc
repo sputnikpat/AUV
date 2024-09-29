@@ -1,0 +1,8 @@
+prefix=/home/prroid/AuvMpstme/install
+
+Name: distance_mavlink
+Description: Description of distance_mavlink
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

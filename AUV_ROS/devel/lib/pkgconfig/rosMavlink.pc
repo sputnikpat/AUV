@@ -1,0 +1,8 @@
+prefix=/home/prroid/AuvMpstme/devel
+
+Name: rosMavlink
+Description: Description of rosMavlink
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

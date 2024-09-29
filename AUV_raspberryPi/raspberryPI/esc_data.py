@@ -1,0 +1,1 @@
+ESC_DATA = {'ESC1': {'PORT': 9101, 'GPIO': 12}, 'ESC2': {'PORT': 9102, 'GPIO': 13}}

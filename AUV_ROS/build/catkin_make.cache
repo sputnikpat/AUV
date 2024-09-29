@@ -1,0 +1,2 @@
+camera_publisher:cv_basics:distance_mavlink:image_processor:pixhawk_position:rosMavlink
+-DCATKIN_DEVEL_PREFIX=/home/prroid/AuvMpstme/devel -DCMAKE_INSTALL_PREFIX=/home/prroid/AuvMpstme/install -G Unix Makefiles

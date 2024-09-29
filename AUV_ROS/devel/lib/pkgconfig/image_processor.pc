@@ -1,0 +1,8 @@
+prefix=/home/prroid/AuvMpstme/devel
+
+Name: image_processor
+Description: Description of image_processor
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
